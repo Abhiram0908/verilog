@@ -1,3 +1,4 @@
+//2,4-decoder
 module decoder(a,b,e,w,x,y,z);
 
 input a,b,e;
